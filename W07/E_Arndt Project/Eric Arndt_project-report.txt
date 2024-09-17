@@ -1,0 +1,50 @@
+Second Report for a Student Chosen Project
+
+Do the following:
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your project. Follow the example
+that is in the first row of the table below. Include the time you spent
+doing any of the following:
+    a. discussing your project with your teacher, tutor, or fellow students
+    b. researching by reading articles and watching applicable videos
+    c. designing your project by drawing diagrams and other applicable documents
+    d. writing experimental code
+    d. writing code for your project
+    e. writing test functions
+    f. debugging your code
+    g. any other activity that helped you complete your project
+
+=====================================================================
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  ---------------------------------------------
+2024-07-10     1.0	Watch YouTube videos on mysql-connector
+2024-07-10     0.5	Download and install mysql-connector
+2024-07-10     1.0	Use W3schools.com to set-up and test connector
+2024-07-10     1.5	Write program - connect DB, query, result
+2024-07-10     3.5	Create, update and correct v_art database
+2024-07-10     1.5	Collect art pics and put into file folders	
+2024-07-10     6.0	Code search_by_artist() Function
+2024-07-11     2.0	Many Google searches along the way
+2024-07-11     4.0	Create main() and db_query() functions
+
+2024-07-12     6.0	Work on search_by_keyword function
+2024-07-12     1.5	Test program and fix bugs
+2024-07-12     0.5	Have others use program, give feedback
+
+2024-07-13     5.0	Implement changes as result of feedback
+2024-07-13     3.0	Clean-up code, align text, add comments
+
+2024-07-15     0.5	Read website on pytest
+2024-07-15     4.0	Create test_ArtworkSearch program
+
+TOTAL HOURS    ~42
+=====================================================================
+
+
+
+2. In Canvas, submit this completed text file, your Python program, your
+Python test file, and any project data files such as .txt and .csv files and
+link to video walkthrough if needed.
+
