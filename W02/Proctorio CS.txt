@@ -1,0 +1,41 @@
+Camera test fails, no picture just a green screen where the picture should be.
+Devin
+Devin sentHIMay I take a look at your photos? That way, I can see what resolves the issue more efficiently.
+you sentOK
+Devin sentcan you please re-test once again
+you sentSame result
+Devin sentOkay, please check that there is no shutter covering the lens of the camera
+you sentNo shutter and the camera light is on
+Devin sentOkay, please open up the camera app and see if you are able to see yourself there
+you sentMegan the CS agent before you had me remove that appLooks like I can reinstall it
+Devin senti am not sure you are able to reinstall camera app on your device if you have an internal camera
+you sentMy webcam is an external cameraIt plugs in via USB
+Devin sentOkay, you can try to unplug the camera and plug it in another USB port
+you sentWell, now the light on the webcam no longer turns on no matter what USB port I try.I'm guessing I need to reinstall the software for it
+Devin sentOkay, you can try that
+you sentReinstalled, camera light is now on, but there is an updateok the webcam software is working, I see a picture.Going to retry the Proctorio camera test
+agent sentWe have automatically detected you are having issues starting the exam. Can we help?
+you sentLOLStill no picture but now instead of green screens they are now whiteoh waitmaybe I need to close the webcam softwareNope, still no picture and green screen where the picture should be
+Devin
+Devin sentOkay, can you tell me what computer are you using?
+you sentDesktop
+Devin sentOKay, please try clicking FN+F6Or if you can find the key on the keyboard for a camera switch
+you sentwould that be windows key + F6?
+Devin sentCould be depending on the keyboard
+you sentOK nothing happened that I can see
+Devin sentOkay, do you perhaps have a different camera that you can try to use?
+you sentUnfortunately I do not
+Devin sentOkay, when you uninstalled the software, have you restarted the device?
+you sentYes Megan had me restart, that's how I lost her and connected with you.
+Devin sentOkay, have you tried restarting the webcam?
+you sentYes, when I changed USB ports
+Devin sentOKay, please double check that the privacy filter is not covering the lens of the cameraIf you are able to see red in the middle of the camera, that would indicate shutter is on, you will need to disable it by switching it off at the top of the camera
+you sentThe shutter is open, I can see myself when I open the webcam software, the camera seems to be working.
+Devin sentOkay, it might be best to try using another browserAnother thing you can try is accessing the exam using the Brave browser.
+
+Here is the link to download it: https://brave.com/download/
+
+Once you download it, make sure that you close out all other browser sessions, including this one. Then, in the new browser, go to getproctorio.com and install the extension by following the on-screen instructions. Then you can try to access your exam in that new browser.
+you sentOK is that a link for the Proctorio extension for Brave?The instructions I was given say that the Proctorio browser extension only works on Google Chrome.
+Devin sentThat is the link for Brave, to install the extension on Brave simply go to getproctorio.com.The Proctorio extension is supported by all Chromium-based browser which brave is
+you sentRight! OK I'll give that a tryI've run out of time to do it now, but will certainly play with BraveThank you for your help
